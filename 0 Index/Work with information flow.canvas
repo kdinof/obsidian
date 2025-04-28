@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"636e3b2cd3f2016a","type":"text","text":"Вся входящая в меня информация","x":-580,"y":-284,"width":250,"height":60},
+		{"id":"30d9f90d948d6094","type":"text","text":"Статья → Omnivore","x":160,"y":-280,"width":250,"height":56},
+		{"id":"746a8defb71995bb","type":"text","text":"Видео → Daily Note","x":160,"y":-180,"width":250,"height":56},
+		{"id":"4f079c7d05a59c58","type":"text","text":"Все остальное → Daily Note","x":160,"y":-80,"width":250,"height":56},
+		{"id":"f97473d6d9f90a99","type":"text","text":"ссылки","x":-200,"y":-280,"width":250,"height":56},
+		{"id":"481dfbbb00cd9133","type":"text","text":"Текст","x":-200,"y":80,"width":250,"height":56},
+		{"id":"86673bce12eac549","type":"text","text":"Отдельная папка Telegram","x":160,"y":80,"width":250,"height":56},
+		{"id":"019508aaf28689df","x":540,"y":-260,"width":250,"height":360,"type":"text","text":""},
+		{"id":"8ff387ae2ab4fd36","x":-200,"y":-380,"width":610,"height":60,"type":"text","text":"Reference Note"},
+		{"id":"54b1975362015548","type":"text","text":"Literature Notes","x":540,"y":-380,"width":610,"height":60}
+	],
+	"edges":[
+		{"id":"e9603a3558c9df22","fromNode":"636e3b2cd3f2016a","fromSide":"right","toNode":"f97473d6d9f90a99","toSide":"left"},
+		{"id":"0ab1addb50952db1","fromNode":"f97473d6d9f90a99","fromSide":"right","toNode":"30d9f90d948d6094","toSide":"left"},
+		{"id":"4d72702bfa6424bc","fromNode":"f97473d6d9f90a99","fromSide":"right","toNode":"746a8defb71995bb","toSide":"left"},
+		{"id":"b09df252d8e1283b","fromNode":"f97473d6d9f90a99","fromSide":"right","toNode":"4f079c7d05a59c58","toSide":"left"},
+		{"id":"a4ab64e2b2a02a27","fromNode":"636e3b2cd3f2016a","fromSide":"right","toNode":"481dfbbb00cd9133","toSide":"left"},
+		{"id":"2ea5ddd11b498ced","fromNode":"481dfbbb00cd9133","fromSide":"right","toNode":"86673bce12eac549","toSide":"left"}
+	]
+}

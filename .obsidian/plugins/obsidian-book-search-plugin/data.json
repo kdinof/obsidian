@@ -1,0 +1,14 @@
+{
+  "folder": "",
+  "fileNameFormat": "{{title}}-{{author}}",
+  "frontmatter": "",
+  "content": "",
+  "useDefaultFrontmatter": true,
+  "defaultFrontmatterKeyType": "Camel Case",
+  "templateFile": "0 Index/Templates/{{new book}}.md",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "default",
+  "openPageOnCompletion": true
+}

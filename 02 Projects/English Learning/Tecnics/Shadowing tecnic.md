@@ -1,0 +1,3 @@
+[[Day 3 • 26.03]]
+
+Listening & Shadowing Focus. Listening: Pick a 5-minute segment of an American English podcast (or an interview). Use a tool (like Otter.ai or YouTube auto-captions) to get the transcript. Listen to the segment once just for gist. Then listen again, pausing after each sentence to shadow (repeat it, trying to mimic accent and intonation) ([https://files.eric.ed.gov/fulltext/EJ1380201.pdf#:~:text=graduation,As%20made%20clear](https://files.eric.ed.gov/fulltext/EJ1380201.pdf#:~:text=graduation,As%20made%20clear))

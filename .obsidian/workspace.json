@@ -1,0 +1,331 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Index/0 Index.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "0 Index"
+            }
+          },
+          {
+            "id": "f6622f496ab2b1f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The future of AI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The future of AI"
+            }
+          },
+          {
+            "id": "2e41b819f126d682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Areas/AI/Prompts/Post Writer RU.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Post Writer RU"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8bb9e3b941190cf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cc48300a249fa1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25c97a07ea098531",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "19ca2a70819365ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "karpa",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4728a0c48c01bb7b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "b79341f61db99706",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4b58cc649c961c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0333361b2ddfeb4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-06-10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-06-10"
+            }
+          },
+          {
+            "id": "549cc4eaa118c162",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-06-10.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-06-10"
+            }
+          },
+          {
+            "id": "def8f0374f5b556f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4b2e09d248101277",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 Projects/Behavior Course for Designers/Stewart Brand’s model and human behavior.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Stewart Brand’s model and human behavior"
+            }
+          },
+          {
+            "id": "a9ed258f96a423e9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "30723484645775f9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "75bed44c6f333685",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "80d2fef88182866f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 387.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f6622f496ab2b1f5",
+  "lastOpenFiles": [
+    "obsidian-vault",
+    "kirills-brain",
+    "01 Inbox/Go Practice/Генеративный AI/1. Генеративный AI простыми словами.md",
+    "Clippings/Here’s how I use LLMs to help me write code.md",
+    "The future of AI.md",
+    "03 Areas/AI/Prompts/Post Writer RU.md",
+    "03 Areas/AI/Prompts/English from Intermediate to Advance.md",
+    "03 Areas/AI/Prompts/GPT Prompts.md",
+    "03 Areas/AI/Prompts/Note prompt.md",
+    "Growth opportunities.md",
+    "AI Answers.md",
+    "0 Index/0 Index.md",
+    "Breastfeeding Telegram Bot.md",
+    "Personal/Retro and Plans/2025/Alexsander Gainutdinov.md",
+    "Clippings/Persuasion.md",
+    "Clippings/Manipulations.md",
+    "Clippings/Post rationalisation.md",
+    "02 Projects/English Learning/Daily Journaling/W2/Day 10.md",
+    "02 Projects/English Learning/English Learning Plan.md",
+    "02 Projects/English Learning/Daily Journaling/W2/Day 9.md",
+    "02 Projects/English Learning/Daily Journaling/W2/Day 8.md",
+    "Clippings/How might we.md",
+    "Clippings/Ed Sheeran Peep-show experiment.md",
+    "04 Resources/Meaningful Life/Personal Planning Strategies 1.md",
+    "04 Resources/DJ/Energy Manipulation in DJing.md",
+    "Clippings/JSON Image Prompt Structure.md",
+    "Clippings/Comfy UI.md",
+    "03 Areas/AI/Voice to text telegram bot",
+    "Clippings/attachments/Pasted image 20250412062905.png",
+    "Clippings/attachments/Pasted image 20250412062846.png",
+    "Clippings/attachments/Pasted image 20250412062829.png",
+    "Clippings/attachments/Pasted image 20250412062812.png",
+    "Clippings/attachments/Pasted image 20250412062757.png",
+    "Clippings/attachments",
+    "02 Projects/English Learning/Daily Journaling/W2",
+    "02 Projects/English Learning/Daily Journaling/W1",
+    "03 Areas/AI/Vibe Coding",
+    "03 Areas/Where to live",
+    "04 Resources/Meaningful Life/80000 Hours",
+    "02 Projects/New job/Untitled",
+    "02 Projects/Telegram Questionare Bot",
+    "0 Index/Work with information flow.canvas",
+    "02 Projects/Yasno i ponyatno/Telegram/attachments/CleanShot 2025-02-17 at 06.31.09@2x.png",
+    "02 Projects/Yasno i ponyatno/Telegram/attachments/CleanShot 2025-02-17 at 06.26.28@2x.png",
+    "02 Projects/Yasno i ponyatno/Telegram/attachments/CleanShot 2025-02-17 at 06.26.07@2x.png",
+    "02 Projects/Yasno i ponyatno/Telegram/attachments/Pasted image 20240720110322.png",
+    "02 Projects/Yasno i ponyatno/Telegram/attachments/Pasted image 20250217062546.png",
+    "06 DJ/Library organisation.canvas"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path: \"Personal/Retro and Plans\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.4,
+  "nodeSizeMultiplier": 0.803617350260417,
+  "lineSizeMultiplier": 1.36946207682292,
+  "collapse-forces": false,
+  "centerStrength": 0.630615234375,
+  "repelStrength": 9.89827473958333,
+  "linkStrength": 1,
+  "linkDistance": 196,
+  "scale": 0.3704022686393653,
+  "close": false
+}

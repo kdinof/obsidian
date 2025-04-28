@@ -1,0 +1,84 @@
+{
+  "is_obsidian_vault": true,
+  "smart_blocks": {
+    "embed_blocks": true,
+    "min_chars": 200
+  },
+  "smart_sources": {
+    "single_file_data_path": ".smart-env/smart_sources.json",
+    "min_chars": 200,
+    "embed_model": {
+      "adapter": "transformers",
+      "transformers": {
+        "legacy_transformers": false,
+        "model_key": "TaylorAI/bge-micro-v2"
+      },
+      "model_key": "TaylorAI/bge-micro-v2",
+      "legacy_transformers": true,
+      "TaylorAI/bge-micro-v2": {}
+    },
+    "smart_change": {
+      "active": true
+    }
+  },
+  "file_exclusions": "Untitled",
+  "folder_exclusions": "smart-chats",
+  "smart_view_filter": {
+    "render_markdown": true,
+    "show_full_path": false,
+    "results_limit": "20"
+  },
+  "excluded_headings": "",
+  "smart_chats_folder": ".smart-chats",
+  "smart_chats": {
+    "fs_path": ".smart-chats"
+  },
+  "expanded_view": true,
+  "smart_threads": {
+    "chat_model": {
+      "adapter": "ollama",
+      "openai": {
+        "model_key": "gpt-4o"
+      },
+      "ollama": {
+        "model_key": "gemma3:latest",
+        "models": {
+          "gemma3:27b": {
+            "model_name": "gemma3:27b",
+            "id": "gemma3:27b",
+            "multimodal": false,
+            "max_input_tokens": 8192,
+            "can_use_tools": true
+          },
+          "gemma3:latest": {
+            "model_name": "gemma3:latest",
+            "id": "gemma3:latest",
+            "multimodal": false,
+            "max_input_tokens": 8192,
+            "can_use_tools": true
+          },
+          "llama3.2:latest": {
+            "model_name": "llama3.2:latest",
+            "id": "llama3.2:latest",
+            "multimodal": false,
+            "max_input_tokens": 131072,
+            "can_use_tools": true
+          }
+        }
+      }
+    },
+    "embed_model": {
+      "model_key": "None"
+    },
+    "language": "en",
+    "review_context": false,
+    "lookup_limit": "10",
+    "send_tool_output_in_user_message": false
+  },
+  "smart_notices": {
+    "muted": {
+      "embedding_complete": true,
+      "done_import": true
+    }
+  }
+}
