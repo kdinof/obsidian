@@ -10,4 +10,9 @@ node_modules/
 
 # Don't ignore plugins and themes
 !.obsidian/plugins/
-!.obsidian/themes/ 
+!.obsidian/themes/
+
+# Ignore sensitive plugin data
+.obsidian/plugins/*/data.json
+.obsidian/plugins/copilot/
+.obsidian/plugins/smart-connections/ 
