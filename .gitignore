@@ -1,0 +1,13 @@
+.DS_Store
+.trash/
+.obsidian/workspace.json
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.smart-connections
+node_modules/
+
+# Don't ignore plugins and themes
+!.obsidian/plugins/
+!.obsidian/themes/ 
