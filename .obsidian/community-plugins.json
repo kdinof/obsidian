@@ -1,11 +1,10 @@
 [
-  "obsidian-tasks-plugin",
-  "obsidian-hider",
-  "obsidian-minimal-settings",
-  "homepage",
+  "obsidian-omnivore",
   "dataview",
-  "table-editor-obsidian",
-  "templater-obsidian",
   "copilot",
+  "obsidian-minimal-settings",
+  "obsidian-tasks-plugin",
+  "obsidian-book-search-plugin",
+  "templater-obsidian",
   "obsidian-git"
 ]

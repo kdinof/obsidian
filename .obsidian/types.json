@@ -43,6 +43,7 @@
     "TQ_show_urgency": "checkbox",
     "day N": "number",
     "date created": "date",
-    "Related Article": "text"
+    "Related Article": "text",
+    "Mood": "multitext"
   }
 }

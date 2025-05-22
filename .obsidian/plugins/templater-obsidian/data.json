@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "02 Projects/English Learning/Daily Journaling",
-      "template": "0 Index/Templates/English Learning Template.md"
+      "folder": "Personal/Retro and Plans/2025",
+      "template": "0 Index/Templates/Evening Review Template.md"
     }
   ],
   "enable_file_templates": false,
