@@ -1,15 +1,10 @@
-# Компания, где я могу расти
-- Ещё небольшой размер компании, где прослеживается рост и органический рост по зоне ответственности. Либо понятный трэкшен роста. 
-- Больше зона ответственности. В больших компаниях сейчас дизайнеры отвечают только за небольшую часть интерфейса и приходиться очень много согласовывать изменения т.к. много связей и  менеджмента. 
-- Люди у которых можно чему-то научиться.
+# A company and team with a strong product culture focused on metrics and business growth
+- It’s important to me that the company has a mission, strategy, and tools that help teams understand how their work contributes to the overall mission.
+- The mission and strategy should provide a clear direction for the company’s development, so I can prepare the product and team on my end to achieve our goals.
+- It’s crucial that the decisions made by the team are based on data or user insights, rather than being dictated by a single person from the top.
 
-# Удаленка
-Не потому, что хочу работать на 2-х работах. Потому, что хочу иметь возможность выбирать, где мне находиться на постоянной основе. Чтобы место жизни ≠ месту работы. А если совпадет, то это просто прекрасно. 
-
-# Компания с миссией, которая мне откликается
-За последнее время понял, что миссия — не пустое словосочетание. Очень важно, какая она и как проникает в стратегию и принятие решения в командах. Стратегия объединяет. 
-- [ ] А миссии каких компаний мне отлкликаются? 
-
-
+# A company focused on innovation
+AI is no longer just a buzzword (Duolingo) —it’s a set of tools that teams need to consider and implement. I’m looking for a company that understands this and is ready to, or already does, allocate resources to developing AI in its products and processes.
+For example, in design, this means rapid prototyping and research, as well as content and image generation.
 
 
