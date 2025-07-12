@@ -2,7 +2,7 @@
 # Задача
 Создай недельный статус-репорт для команды дизайна B2B в формате Markdown.
 
-## Параметры:
+# Параметры:
 - board_key: DES
 - statuses: In Progress, Design Review, Product Review, Pending
 
@@ -18,7 +18,7 @@
 Для каждого статуса из списка `statuses` выведи подпись уровня `###`  
 и перечисли задачи в формате:
 
-– {issue_key} — {issue_summary} → - {issue_link}(https://clickuz.atlassian.net/browse/{issue_key})}
+– {issue_key} — {issue_summary} → {issue_link}
 
 *Отсортируй внутри статуса по номеру задачи по возрастанию.*
 
@@ -27,6 +27,25 @@
 Если вы видите задачу без описания, пожалуйста:
 1️⃣ Добавьте/обновите описание в Jira
 2️⃣ Подготовьте вопросы к еженедельному планированию
+
+# Пример результата
+
+[
+⚡️ ПЛАНИРОВАНИЕ КОМАНДЫ ДИЗАЙНА B2B⚡️
+#designplanning
+
+Всем привет! На этой неделе у нас в работе находятся следующие задачи:
+
+**In Progress (3)**
+– DES-263 — Создание ссылки для оплаты в Click Business → https://clickuz.atlassian.net/browse/DES-263
+– DES-274 — Ссылка на договор подсвятить синим → https://clickuz.atlassian.net/browse/DES-274
+– DES-291 — [App] Экран поддержки → https://clickuz.atlassian.net/browse/DES-291
+  
+***Design Review (1)**
+– DES-276 — [App] Колонка в нативе → https://clickuz.atlassian.net/browse/DES-276
+
+etc...
+]
 
 
 # Требования к выводу:
