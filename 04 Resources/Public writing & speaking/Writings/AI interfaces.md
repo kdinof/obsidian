@@ -1,3 +1,13 @@
+---
+title_en: AI interfaces
+title_ru: AI interfaces
+tags: 
+language is RU: true
+type: 
+status:
+  - published
+date-published:
+---
 
 
 ЧАТ УХОДИТ СО СЦЕНЫ

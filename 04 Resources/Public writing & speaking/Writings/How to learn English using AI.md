@@ -1,3 +1,13 @@
+---
+title_en: How to learn English using AI
+title_ru: How to learn English using AI
+tags: 
+language is RU: true
+type: 
+status:
+  - published
+date-published:
+---
 
 Как я учу английский используя AI 
 

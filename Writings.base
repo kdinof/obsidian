@@ -1,0 +1,28 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "04 Resources/Public writing & speaking/Writings"
+    order:
+      - file.name
+      - title_ru
+      - tags
+      - status
+      - date-published
+      - type
+    sort:
+      - property: status
+        direction: DESC
+      - property: date-published
+        direction: ASC
+      - property: tags
+        direction: ASC
+    columnSize:
+      note.title_ru: 242
+      note.tags: 117
+  - type: table
+    name: View
+    sort:
+      - property: file.name
+        direction: ASC

@@ -1,4 +1,4 @@
-## [**Jordan Peterson: Beyond Order. 12 More Rules for Life**](https://www.labirint.ru/books/923696/)
+## [Jordan Peterson: Beyond Order. 12 More Rules for Life](https://www.labirint.ru/books/923696/)
 Type: #book
 Hashtags: #psychology #self-development
 Author [[Jordan Peterson]]

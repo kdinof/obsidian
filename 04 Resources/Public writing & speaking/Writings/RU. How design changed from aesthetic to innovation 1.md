@@ -1,11 +1,11 @@
 ---
 title_en: How design changed from aesthetic to innovation
-title_ru: 
-tags: 
+title_ru:
+tags:
 language is RU: false
-type: 
+type:
 status:
-  - idea
+  - published
 ---
 [[How design changed from aesthetic to innovation]]
 

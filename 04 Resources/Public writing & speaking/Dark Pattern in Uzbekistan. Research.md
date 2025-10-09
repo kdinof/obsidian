@@ -1,12 +1,23 @@
 
+---
+title_en: 
+title_ru: 
+tags: 
+language is RU: true
+type: 
+status:
+  - idea
+date-published:
+---
+
 ASCI publishes a discussion document on Deceptive Patterns https://www.ascionline.in/wp-content/uploads/2022/11/dark-patterns.pdf
 
 ---
 
 How can we balance business needs with protection of user interests?
 
-ASCI Academy partnered with Parallel, a product design studio   in Bengaluru, to start an initiative with the following objective:
-To assess prevalence and use of Deceptive Patterns   in top Indian apps, encouraging the use of conscious designs, and promoting a shift towards ethically conscious online interfaces.
+ASCI Academy partnered with Parallel, a product design studio  in Bengaluru, to start an initiative with the following objective:
+To assess prevalence and use of Deceptive Patterns  in top Indian apps, encouraging the use of conscious designs, and promoting a shift towards ethically conscious online interfaces.
 The research involved analysing the core user flows of over 50 apps, examining each screen for Deceptive Patterns across industries.
 
 ## Data Collection

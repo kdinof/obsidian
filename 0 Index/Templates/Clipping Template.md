@@ -6,7 +6,9 @@ url:
 area:
   - meaningful-life
 project: 
-created: {{date: YYYY-MM-DD}}
+created: <% tp.date.now("YYYY-MM-DD") %>
+person:
+
 ---
 
 # Description

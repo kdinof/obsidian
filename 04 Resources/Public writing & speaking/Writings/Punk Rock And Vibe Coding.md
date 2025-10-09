@@ -1,8 +1,18 @@
+---
+status:
+  - published
+---
 
-## ---
-title_en: Punk Rock And Vibe Coding
-title_ru: Панк-рок: доступность вместо элитарности
+---
+title_en: 
+title_ru: 
 tags: 
+language is RU: true
+type: 
+status:
+  - idea
+date-published:
+--- 
 language is RU: true
 type: []
 status:

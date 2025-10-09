@@ -44,6 +44,7 @@
     "day N": "number",
     "date created": "date",
     "Related Article": "text",
-    "Mood": "multitext"
+    "Mood": "multitext",
+    "date-published": "date"
   }
 }
