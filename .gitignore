@@ -6,6 +6,8 @@
 .obsidian/workspace-mobile.json
 .obsidian/cache
 .smart-connections
+.smart-env/
+.smart-chats/
 node_modules/
 
 # Don't ignore plugins and themes
