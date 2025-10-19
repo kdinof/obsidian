@@ -1,4 +1,4 @@
-**Prompt Title: "Generate a Prototype-PRD for Lovable.dev or bolt.new"**
+
 
 ## **System / Role Instructions**  
 You are an experienced product lead and technical architect.  
