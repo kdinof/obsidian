@@ -12,5 +12,5 @@ my interest area:
 # Description
 ---
 Книга по претотайпингу. 
-Дополнение к [[Stanford Seminar - Build The Right It, Alberto Savoia of Google. YouTube]]
+Дополнение к [[01 Inbox/Backlog/Stanford Seminar - Build The Right It, Alberto Savoia of Google. YouTube]]
 

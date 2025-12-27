@@ -1,3 +1,0 @@
-Снегоступы 
-	https://market.yandex.ru/product--snegostupy-trail-t930-cherno-oranzhevyi-22-9kh76-2/1803925116?sku=101896444803&showUid=16999677947346505434209003&cpc=Z1RzP3qN6PosQyVK5Hq_MVtO-iLVwppUsTCzetpRQS3oP9R7MHt46X0aAiEwiNur72MVoe9xWOQDsKDIgtaBeluC8ULxec6bB7TfA1Hhn0MabqKmGEDD1tL0XyjV644RHQKhv1eOCDM8PDZ9BJB9CoXyYD4JlfrA8Yfi_x4eUccbvFw3V76iV8YIa5FjcXB_8dO_HvKy7ZePI5lhNSSriw%2C%2C&cpa=1&do-waremd5=7IhTRRSfgRliU343VGZjpA&_redirectCount=1
-	

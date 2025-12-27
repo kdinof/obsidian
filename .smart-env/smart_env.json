@@ -17,6 +17,9 @@
       "legacy_transformers": true,
       "TaylorAI/bge-micro-v2": {}
     },
+    "excluded_headings": "",
+    "file_exclusions": "Untitled",
+    "folder_exclusions": "smart-chats",
     "smart_change": {
       "active": true
     }
@@ -25,8 +28,6 @@
     "connections": true,
     "random_note": false
   },
-  "file_exclusions": "Untitled",
-  "folder_exclusions": "smart-chats",
   "smart_view_filter": {
     "render_markdown": true,
     "show_full_path": false,
@@ -36,7 +37,6 @@
     "results_limit": "20",
     "exclude_inlinks": false
   },
-  "excluded_headings": "",
   "language": "en",
   "new_user": true,
   "re_import_wait_time": 13,
